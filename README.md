@@ -1,5 +1,7 @@
 # Socratic Argument Mentor
 
+*[Versión en español](README.es.md)*
+
 A skill that turns an LLM into a rigorous examiner of your own written arguments.
 
 You paste a text defending an idea you hold. The model reconstructs it in standard form, **exposes the premises you never wrote down but the argument needs**, diagnoses the weaknesses by type, mounts the strongest objections it can build, and closes by asking you to recalibrate your own confidence against the number you gave at the start.
